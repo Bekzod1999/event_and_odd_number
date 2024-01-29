@@ -2,6 +2,6 @@
 
 #Print 1 if the number is odd, otherwise print 0.
 
-number = 1
-number %= 2
-print(number)
+
+number = 16
+print((number-1)2)
