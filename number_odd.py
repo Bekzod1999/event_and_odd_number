@@ -4,7 +4,7 @@
 
 #Print the number of odd digits in the variable "var_int".
 
-var_int = 4544
+var_int = 4875
 
 fourthDigit = var_int // 1000 #4
 value = var_int % 1000 #5 68
