@@ -3,6 +3,6 @@
 #Print 1 if the number is even, otherwise print 0.
 
 number = 16
-number -= 1
-number %= 2
-print(number)
+
+print((number+1)%2)
+
